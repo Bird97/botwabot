@@ -1,0 +1,453 @@
+{
+  "bebidas_calientes_con_cafe": [
+    {
+      "id": "americano_o_expresso",
+      "nombre": "Americano o Expresso",
+      "precio": 3500
+    },
+    {
+      "id": "americano_o_expresso_doble",
+      "nombre": "Americano o Expresso doble",
+      "precio": 6000
+    },
+    {
+      "id": "cappuccino",
+      "nombre": "Cappuccino",
+      "precio": 7000
+    },
+    {
+      "id": "latte_10_oz",
+      "nombre": "Latte 10 Oz.",
+      "precio": 7000
+    },
+    {
+      "id": "latte_arequipe",
+      "nombre": "Latte Arequipe",
+      "precio": 8000
+    },
+    {
+      "id": "latte_arequipe_grande",
+      "nombre": "Latte Arequipe",
+      "precio": 9000
+    },
+    {
+      "id": "cappuccino_vainilla",
+      "nombre": "Cappuccino Vainilla",
+      "precio": 8500
+    },
+    {
+      "id": "cappuccino_vainilla_grande",
+      "nombre": "Cappuccino Vainilla",
+      "precio": 9500
+    },
+    {
+      "id": "mokaccino",
+      "nombre": "Mokaccino",
+      "precio": 8000,
+      "descripcion": "leche, Expresso, Chocolate"
+    },
+    {
+      "id": "chocolate_caliente",
+      "nombre": "Chocolate Caliente",
+      "precio": 6500,
+      "descripcion": "con leche entera 10 Oz."
+    }
+  ],
+  "bebidas_frias_con_cafe": [
+    {
+      "id": "frappe_lamafe_12_oz",
+      "nombre": "Frappe Lamafé 12 Oz.",
+      "precio": 12000,
+      "descripcion": "Mix, chantilly, salsa de arequipe y chocolate"
+    },
+    {
+      "id": "frappe_honey",
+      "nombre": "Frappe Honey",
+      "precio": 7000,
+      "descripcion": "Expresso, miel y hielo"
+    },
+    {
+      "id": "frappe_latte",
+      "nombre": "Frappe Latte",
+      "precio": 7000,
+      "descripcion": "Expresso, leche de coco y hielo"
+    },
+    {
+      "id": "cafe_frio",
+      "nombre": "Café Frío",
+      "precio": 11000,
+      "descripcion": "Expresso, leche, expresso y hielo"
+    },
+    {
+      "id": "affogato_12_oz",
+      "nombre": "Affogato 12 Oz.",
+      "precio": 9000,
+      "descripcion": "2 bolas de helado, expresso, salsa de arequipe"
+    }
+  ],
+  "frappe": [
+    {
+      "id": "frappe_millo_12_oz",
+      "nombre": "Frappe Millo 12 Oz.",
+      "precio": 12000,
+      "descripcion": "Milo, chantilly, salsa de arequipe o chocolate"
+    },
+    {
+      "id": "oreo_12_oz",
+      "nombre": "Oreo 12 Oz.",
+      "precio": 10000,
+      "descripcion": "Chantilly, galleta oreo, salsa de arequipe o chocolate"
+    },
+    {
+      "id": "vainilla_12_oz",
+      "nombre": "Vainilla 12 Oz.",
+      "precio": 9000,
+      "descripcion": "Chantilly, helado, salsa de arequipe"
+    }
+  ],
+  "limonadas": [
+    {
+      "id": "refrescante_16_oz",
+      "nombre": "Refrescante 16 Oz.",
+      "precio": 8000,
+      "descripcion": "Frutos Rojos, Limón y cereza"
+    },
+    {
+      "id": "fusion_verde_16_oz",
+      "nombre": "Fusión Verde 16 Oz.",
+      "precio": 8000,
+      "descripcion": "Hierbabuena, Limón y cereza"
+    },
+    {
+      "id": "limonada_16_oz",
+      "nombre": "Limonada 16 Oz.",
+      "precio": 9000,
+      "descripcion": "mango, maracuyá, limón y cereza, hierbabuena"
+    }
+  ],
+  "smoothies_con_helado": [
+    {
+      "id": "frutos_rojos",
+      "nombre": "Frutos Rojos",
+      "precio": 10000,
+      "descripcion": "fresa, mora, arándanos"
+    },
+    {
+      "id": "tropical",
+      "nombre": "Tropical",
+      "precio": 10000,
+      "descripcion": "mango, maracuyá, banano, piña"
+    },
+    {
+      "id": "refrescante",
+      "nombre": "Refrescante",
+      "precio": 10000,
+      "descripcion": "fresa, hierbabuena"
+    },
+    {
+      "id": "lamafe",
+      "nombre": "Lamafé",
+      "precio": 10000,
+      "descripcion": "fresa, mango, banano, papaya"
+    }
+  ],
+  "vinos_artesanales": [
+    {
+      "id": "copa",
+      "nombre": "Copa",
+      "precio": 10000
+    },
+    {
+      "id": "botella_750ml",
+      "nombre": "Botella 750ml",
+      "precio": 30000
+    },
+    {
+      "id": "malteada_de_vino",
+      "nombre": "Malteada de vino",
+      "precio": 19000
+    }
+  ],
+  "sodas_saborizadas": [
+    {
+      "id": "fresa",
+      "nombre": "Fresa",
+      "precio": 9000
+    },
+    {
+      "id": "cereza",
+      "nombre": "Cereza",
+      "precio": 9000
+    },
+    {
+      "id": "maracuya",
+      "nombre": "Maracuyá",
+      "precio": 9000
+    },
+    {
+      "id": "manzana_verde",
+      "nombre": "Manzana Verde",
+      "precio": 9000
+    },
+    {
+      "id": "curacao",
+      "nombre": "Curacao",
+      "precio": 9000
+    },
+    {
+      "id": "hierbabuena_menta",
+      "nombre": "Hierbabuena menta",
+      "precio": 9000
+    },
+    {
+      "id": "y_otros",
+      "nombre": "Y otros",
+      "precio": 9000,
+      "descripcion": "limón, soda, tajín"
+    }
+  ],
+  "cocteles": [
+    {
+      "id": "sangria",
+      "nombre": "Sangría",
+      "precio": 18000,
+      "descripcion": "vino, cereza, vodka, mix frutos, soda"
+    },
+    {
+      "id": "coctel_de_frutas",
+      "nombre": "Cóctel de Frutas",
+      "precio": 15000,
+      "descripcion": "Ron, jugo de cereza, fruta"
+    },
+    {
+      "id": "mojito",
+      "nombre": "Mojito",
+      "precio": 15000,
+      "descripcion": "Ron, hierbabuena, menta, limón, soda"
+    },
+    {
+      "id": "margarita_de_maracuya",
+      "nombre": "Margarita de maracuyá",
+      "precio": 15000,
+      "descripcion": "Tequila, limón, pulpa de maracuyá"
+    },
+    {
+      "id": "lamafe_de_vino",
+      "nombre": "Lamafé de Vino",
+      "precio": 15000,
+      "descripcion": "Jugo de cereza, fresa, Ron blanco, limón"
+    },
+    {
+      "id": "cosmopolitan",
+      "nombre": "Cosmopolitan",
+      "precio": 18000,
+      "descripcion": "fresa, mandarina, tequila, vino, cereza, soda"
+    }
+  ],
+  "sandwiches": [
+    {
+      "id": "pechuga",
+      "nombre": "Pechuga",
+      "precio": 12000,
+      "descripcion": "con pimentón asado"
+    },
+    {
+      "id": "pavo",
+      "nombre": "Pavo",
+      "precio": 12000,
+      "descripcion": "con tocineta en reducción de vino de cereza"
+    },
+    {
+      "id": "carne_desmechada",
+      "nombre": "Carne Desmechada",
+      "precio": 12000,
+      "descripcion": "pimientos, maíz dulce, zanahoria en julianas"
+    },
+    {
+      "id": "mixto",
+      "nombre": "Mixto",
+      "precio": 10000,
+      "descripcion": "jamón, queso"
+    }
+  ],
+  "wraps": [
+    {
+      "id": "pechuga_wrap",
+      "nombre": "Pechuga",
+      "precio": 14000,
+      "descripcion": "con pimentón asado"
+    },
+    {
+      "id": "cerdo_wrap",
+      "nombre": "Cerdo",
+      "precio": 14000
+    },
+    {
+      "id": "pavo_wrap",
+      "nombre": "Pavo",
+      "precio": 14000,
+      "descripcion": "tocineta en reducción de vino de cereza"
+    },
+    {
+      "id": "carne_desmechada_wrap",
+      "nombre": "Carne desmechada",
+      "precio": 14000,
+      "descripcion": "pimientos, maíz dulce, zanahoria en julianas"
+    },
+    {
+      "id": "mixto_wrap",
+      "nombre": "Mixto",
+      "precio": 10000,
+      "descripcion": "jamón, queso, crema"
+    },
+    {
+      "id": "burrito_trigo",
+      "nombre": "Burrito de trigo",
+      "precio": 14000,
+      "descripcion": "lechuga, crutones, queso, mozzarella"
+    }
+  ],
+  "panne_cook_lamafe": [
+    {
+      "id": "pechuga_panne",
+      "nombre": "Pechuga",
+      "precio": 9000,
+      "descripcion": "Pan de la abuela y queso mozzarella, con pimentón asado"
+    },
+    {
+      "id": "pavo_panne",
+      "nombre": "Pavo",
+      "precio": 9000,
+      "descripcion": "Con tocineta en reducción de vino de cereza"
+    },
+    {
+      "id": "carne_desmechada_panne",
+      "nombre": "Carne Desmechada",
+      "precio": 9000,
+      "descripcion": "pimientos, maíz dulce, zanahoria en julianas"
+    },
+    {
+      "id": "mixto_panne",
+      "nombre": "Mixto",
+      "precio": 7000,
+      "descripcion": "de jamón y queso crema"
+    }
+  ],
+  "hamburguesa_lamafe": [
+    {
+      "id": "hamburguesa_lamafe",
+      "nombre": "Hamburguesa Lamafé",
+      "precio": 15000,
+      "descripcion": "Carne artesanal: pan artesanal, lechuga, crespa, queso mozzarella, queso americano, salsa, salsa de piña, cebolla caramelizada con reducción de vino de cereza, salsa de la casa"
+    }
+  ],
+  "ensalada_lamafe": [
+    {
+      "id": "ensalada_lamafe",
+      "nombre": "Ensalada Lamafé",
+      "precio": 15000,
+      "descripcion": "lechuga crespa, tomate cherry, maíz, pepino, cebolla, arveja, frijol tierno, queso mozzarella, salsa de yogurt griego"
+    }
+  ],
+  "smoothies_con_proteina": [
+    {
+      "id": "frutos_rojos_proteina",
+      "nombre": "Frutos rojos",
+      "precio": 15000,
+      "descripcion": "fresa, mora, arándanos"
+    },
+    {
+      "id": "tropical_proteina",
+      "nombre": "Tropical",
+      "precio": 15000,
+      "descripcion": "mango, maracuyá, banano, piña"
+    },
+    {
+      "id": "refrescante_proteina",
+      "nombre": "Refrescante",
+      "precio": 15000,
+      "descripcion": "fresa, hierbabuena"
+    },
+    {
+      "id": "lamafe_proteina",
+      "nombre": "Lamafé",
+      "precio": 15000,
+      "descripcion": "fresa, mango, banano, papaya"
+    }
+  ],
+  "opciones_saludables": [
+    {
+      "id": "waffle_proteico",
+      "nombre": "Waffle Proteico",
+      "precio": 9000,
+      "descripcion": "Proteínas, avena en hojuelas, topping mediterráneo, frutos"
+    },
+    {
+      "id": "te_de_frutas_caliente",
+      "nombre": "Té de frutas caliente",
+      "precio": 9000,
+      "descripcion": "Flor de Jamaica, fresa, manzana, arándanos, menta y limón"
+    }
+  ],
+  "adiciones": [
+    {
+      "id": "agua_botella_300ml",
+      "nombre": "Agua botella 300 ml",
+      "precio": 1500
+    },
+    {
+      "id": "coca_cola_botella_300ml",
+      "nombre": "Coca Cola botella 300 ml",
+      "precio": 3000
+    },
+    {
+      "id": "coca_cola_250ml",
+      "nombre": "Coca Cola 250 ml",
+      "precio": 3000
+    },
+    {
+      "id": "gaseosa_300ml",
+      "nombre": "Gaseosa 300 ml",
+      "precio": 4000,
+      "descripcion": "para adicionar a batido"
+    }
+  ],
+  "saludables": [
+    {
+      "id": "aloe",
+      "nombre": "Aloe",
+      "precio": 3000
+    },
+    {
+      "id": "flor",
+      "nombre": "Flor",
+      "precio": 3000
+    },
+    {
+      "id": "fibra",
+      "nombre": "Fibra",
+      "precio": 6000
+    },
+    {
+      "id": "malta_nutricional",
+      "nombre": "Malta nutricional",
+      "precio": 7000
+    },
+    {
+      "id": "guarana",
+      "nombre": "Guaraná",
+      "precio": 3000
+    },
+    {
+      "id": "jengibre",
+      "nombre": "Jengibre",
+      "precio": 3000
+    },
+    {
+      "id": "palm",
+      "nombre": "Palm",
+      "precio": 5000,
+      "descripcion": "proteína y coco"
+    }
+  ]
+}
