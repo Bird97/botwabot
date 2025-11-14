@@ -1,0 +1,12 @@
+node_modules/
+*.log
+*.png
+*.qr.*
+data/
+Dockerfile
+README.md
+package-lock.json
+baileys.log
+core.class.log
+queue.class.log
+bot.qr.png
